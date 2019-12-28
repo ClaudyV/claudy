@@ -45,7 +45,7 @@ export default class Timeline extends Component {
                         <p style={{fontSize: "18px"}}>I am currently studying Computer Science at <a href ="https://www.nctu.edu.tw/en"> National Chiao Tung University (4th grade) </a> 
 
                         <h2><b>Undergraduate Degree at <a style={{color: "#2c98f0"}} href="https://www.nctu.edu.tw/en"> National Chiao Tung University </a> </b><span>(2016-2020)</span></h2>
-                        <p style={{fontSize: "18px"}}>I am currently studying Computer Science at  National Chiao Tung University (4th grade)
+                        <p> style={{fontSize: "18px"}}>I am currently studying Computer Science at  National Chiao Tung University (4th grade)
 
                         where I gain useful knowledge about Data Structures and Algorithms.</p>
                       </div>
