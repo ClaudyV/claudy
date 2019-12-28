@@ -40,7 +40,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p style={{fontSize: "18px"}}>I have experience building websites using JavaScript(React.js),HTML5,CSS3</p>
+                    <p style={{fontSize: "18px"}}>I have experience building websites using JavaScript(React.js, jQuery), HTML5, CSS3</p>
                 </div>
                 </div>
             </div>
@@ -63,17 +63,6 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>App Development</h3>
                     <p style={{fontSize: "18px"}}>Recently, I am working on a Flutter project to build both Android and IOS App using Dart</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
-                    <i className="icon-bulb" />
-                </span>
-                <div className="desc">
-                    <h3>Language Skills</h3>
-                    <p style={{fontSize: "18px"}}>I speak 中文(Chinese), French, English, Spanish, Creole</p>
                 </div>
                 </div>
             </div>
