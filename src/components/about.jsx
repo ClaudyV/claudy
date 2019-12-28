@@ -51,7 +51,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Email Marketing</h3>
-                    <p style={{fontSize: "18px"}}>I have a good understanding in using Mailchimp for Email Marketing</p>
+                    <p style={{fontSize: "18px"}}>I have a good understanding in using Mailchimp and Campaign Monitor for Email Marketing</p>
                 </div>
                 </div>
             </div>
