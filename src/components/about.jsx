@@ -40,7 +40,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p style={{fontSize: "18px"}}>I have experience building websites using JavaScript (React.js, jQuery), HTML5, CSS3</p>
+                    <p style={{fontSize: "18px"}}>I have experience building websites using JavaScript(React.js),HTML5,CSS3</p>
                 </div>
                 </div>
             </div>
