@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><b>Implementation Engineer Intern at Ematic Solutions</b> <span>(July 2019 - present)</span></h2>
+                        <h2><b>Implementation Engineer Intern at  <a style={{color: "#2c98f0"}} href="https://www.ematicsolutions.com/"> Ematic Solutions </a> </b>  <span>(July 2019 - present)</span></h2>
                         <ul style={{fontSize: "18px"}}>I have joined Ematic Solutions as an Implementation Engineer. The major part of the work is to:
                           <li>Handle data management and integration projects on different digital marketing platforms  </li>  
                           <li>Prepare data specification and integration for customers</li> 
@@ -40,8 +40,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><b>Undergraduate Degree at National Chiao Tung University</b><span>(2016-2020)</span></h2>
-                        <p style={{fontSize: "18px"}}>I am currently studying Computer Science at <a href ="https://www.nctu.edu.tw/en"> National Chiao Tung University (4th grade) </a> 
+                        <h2><b>Undergraduate Degree at <a style={{color: "#2c98f0"}} href="https://www.nctu.edu.tw/en"> National Chiao Tung University </a> </b><span>(2016-2020)</span></h2>
+                        <p style={{fontSize: "18px"}}>I am currently studying Computer Science at  National Chiao Tung University (4th grade)
                         where I gain useful knowledge about Data Structures and Algorithms.</p>
                       </div>
                     </div>
@@ -52,7 +52,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><b>Chinese Certificate at National Central University</b><span>(2015-2016)</span></h2>
+                        <h2><b>Chinese Certificate at <a style={{color: "#2c98f0"}} href="https://www.ncu.edu.tw/en"> National Chiao Tung University </a> </b><span>(2015-2016)</span></h2>
                         <p style={{fontSize: "18px"}}> 我4年前有在中央大學學中文， 學了一年，我現在已經可以用中文來寫詩， 不錯吧? XDD 哈哈哈</p>
                       </div>
                     </div>
@@ -63,7 +63,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><b>High School Education at Collège Canado Haïtien</b> <span>(2007-2014)</span></h2>
+                        <h2><b>High School Education at <a style={{color: "#2c98f0"}} href="https://en.wikipedia.org/wiki/Coll%C3%A8ge_Canado-Ha%C3%AFtien"> Collège Canado Haïtien </a> </b> <span>(2007-2014)</span></h2>
                         <p style={{fontSize: "18px"}}>I have completed my High School Education at Collège Canado Haïtien in Haïti. </p> 
                       </div>
                     </div>
