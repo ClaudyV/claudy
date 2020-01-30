@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><b>Implementation Engineer Intern at  <a style={{color: "#2c98f0"}} href="https://www.ematicsolutions.com/"> Ematic Solutions </a> </b>  <span>(July 2019 - present)</span></h2>
+                        <h2><b>Implementation Engineer Intern at  <a style={{color: "#2c98f0"}} href="https://www.ematicsolutions.com/"> Ematic Solutions </a> </b>  <span>(July 2019 - January 2020 )</span></h2>
                         <ul style={{fontSize: "18px"}}>I have joined Ematic Solutions as an Implementation Engineer. The major part of the work is to:
                           <li>Handle data management and integration projects on different digital marketing platforms  </li>  
                           <li>Prepare data specification and integration for customers</li> 
