@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/claudy/static/css/main.aca90e47.chunk.css",
-    "main.js": "/claudy/static/js/main.54e7db48.chunk.js",
-    "main.js.map": "/claudy/static/js/main.54e7db48.chunk.js.map",
+    "main.js": "/claudy/static/js/main.3d57658c.chunk.js",
+    "main.js.map": "/claudy/static/js/main.3d57658c.chunk.js.map",
     "runtime-main.js": "/claudy/static/js/runtime-main.5c6f36ce.js",
     "runtime-main.js.map": "/claudy/static/js/runtime-main.5c6f36ce.js.map",
     "static/js/2.44385c03.chunk.js": "/claudy/static/js/2.44385c03.chunk.js",
     "static/js/2.44385c03.chunk.js.map": "/claudy/static/js/2.44385c03.chunk.js.map",
     "index.html": "/claudy/index.html",
-    "precache-manifest.6f688b0c8710a7240e7e9b8ace361b4a.js": "/claudy/precache-manifest.6f688b0c8710a7240e7e9b8ace361b4a.js",
+    "precache-manifest.f66f14f8a14921bd388fe01c25c38094.js": "/claudy/precache-manifest.f66f14f8a14921bd388fe01c25c38094.js",
     "service-worker.js": "/claudy/service-worker.js",
     "static/css/main.aca90e47.chunk.css.map": "/claudy/static/css/main.aca90e47.chunk.css.map",
     "static/js/2.44385c03.chunk.js.LICENSE": "/claudy/static/js/2.44385c03.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5c6f36ce.js",
     "static/js/2.44385c03.chunk.js",
     "static/css/main.aca90e47.chunk.css",
-    "static/js/main.54e7db48.chunk.js"
+    "static/js/main.3d57658c.chunk.js"
   ]
 }
