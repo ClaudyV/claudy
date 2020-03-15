@@ -10,10 +10,10 @@ import Skill from './components/skills'
 class App extends Component {
   render() {
     return (
-      <div id="colorlib-page">
+      <div id="claudy-page">
         <div id="container-wrap">
          	<Sidebar></Sidebar>
-				<div id="colorlib-main">
+				<div id="claudy-main">
 					<Introduction></Introduction>
 					<About></About>
 					<Skill></Skill>
