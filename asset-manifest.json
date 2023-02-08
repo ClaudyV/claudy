@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/claudy/static/css/main.ab777e12.css",
-    "main.js": "/claudy/static/js/main.51e9b6df.js",
+    "main.js": "/claudy/static/js/main.de6a9320.js",
     "index.html": "/claudy/index.html",
     "main.ab777e12.css.map": "/claudy/static/css/main.ab777e12.css.map",
-    "main.51e9b6df.js.map": "/claudy/static/js/main.51e9b6df.js.map"
+    "main.de6a9320.js.map": "/claudy/static/js/main.de6a9320.js.map"
   },
   "entrypoints": [
     "static/css/main.ab777e12.css",
-    "static/js/main.51e9b6df.js"
+    "static/js/main.de6a9320.js"
   ]
 }
