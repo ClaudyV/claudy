@@ -26,7 +26,7 @@ export default class Timeline extends Component {
                     data-animate-effect="fadeInLeft"
                   >
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-2">
+                      <div className="timeline-icon color-1">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
@@ -40,8 +40,10 @@ export default class Timeline extends Component {
                           Frontend Developer to help build 2 web platforms while
                           being the only Frontend Developer in the development
                           team. <br />
-                          <b>Platform 1</b>: Build an internal website to monitor Bloxmith's game app, display all players' data, etc..
-<br />
+                          <b>Platform 1</b>: Build an internal website to
+                          monitor Bloxmith's game app, display all players'
+                          data, etc..
+                          <br />
                           During this project, I used the following tools:
                           <br />
                           <li>Nextjs </li>
