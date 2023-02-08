@@ -8,7 +8,7 @@ export default class Sidebar extends Component {
           <nav href="#navbar" className="js-claudy-nav-toggle claudy-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="claudy-aside" className="border js-fullheight">
             <div className="text-center">
-              <div className="author-img" style={{backgroundImage: 'url(images/claude.JPG)'}} />
+              <div className="author-img" style={{backgroundImage: 'url(/claudy/images/claudy_recent.JPG)'}} />
               <h1 id="claudy-logo"><a href="index.html">Claude Vernet Michel</a></h1>
               <span className="email"><i className="icon-mail"></i> claudevernetmichel22@gmail.com</span>
               <br/>
