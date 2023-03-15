@@ -1281,7 +1281,7 @@ body.offcanvas .claudy-nav-toggle {
 @media screen and (max-width: 768px) {
   .project .desc {
     opacity: 1;
-    background: rgb(0 0 0 / 68%);
+    background: rgb(0 0 0 / 85%);
   }
   .project .desc h3 {
     font-style: 28px;
