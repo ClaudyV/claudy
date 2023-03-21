@@ -128,7 +128,7 @@ figure figcaption {
     -ms-transform: translateX(-300px);
     -o-transform: translateX(-300px);
     transform: translateX(-300px);
-    padding-top: 4em;
+    padding-top: 1em;
   }
 }
 #claudy-aside .author-img {
@@ -173,6 +173,13 @@ figure figcaption {
   margin: 0;
   padding: 0;
 }
+
+#claudy-aside #claudy-main-menu .socialLinks {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+}
+
 @media screen and (max-width: 768px) {
   #claudy-aside #claudy-main-menu ul {
     margin: 0 0 2em 0;
@@ -494,7 +501,7 @@ body.offcanvas .claudy-nav-toggle {
 .claudy-services,
 .claudy-contact {
   padding-top: 4em;
-  padding-bottom: 9em;
+  padding-bottom: 5em;
   clear: both;
   width: 100%;
   display: block;
@@ -1139,6 +1146,7 @@ body.offcanvas .claudy-nav-toggle {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
+  width: 100%;
 }
 .blog-entry .desc h3 {
   font-size: 16px;
@@ -1836,4 +1844,8 @@ body.offcanvas .claudy-nav-toggle {
 
 .js .animate-box {
   opacity: 0;
+}
+
+.newLine {
+  font-size: 18px !important;
 }
