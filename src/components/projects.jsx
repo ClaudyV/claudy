@@ -32,6 +32,7 @@ export default class Projects extends Component {
                         <a
                           target="_blank"
                           href="https://page-layout.vercel.app/"
+                          rel="noopener noreferrer"
                         >
                           <b>Page Layout using ReactJS</b>
                         </a>
@@ -44,6 +45,7 @@ export default class Projects extends Component {
                           <a
                             target="_blank"
                             href="https://page-layout.vercel.app/"
+                            rel="noopener noreferrer"
                           >
                             <i className="icon-eye" /> Demo
                           </a>
@@ -52,6 +54,7 @@ export default class Projects extends Component {
                           <a
                             target="_blank"
                             href="https://github.com/ClaudyV/page-layout"
+                            rel="noopener noreferrer"
                           >
                             <i className="icon-link" /> Github
                           </a>
@@ -77,6 +80,7 @@ export default class Projects extends Component {
                         <a
                           target="_blank"
                           href="https://casana-demo.web.app/#/home"
+                          rel="noopener noreferrer"
                         >
                           <b>Logistics Delivery Company</b>
                         </a>
@@ -89,6 +93,7 @@ export default class Projects extends Component {
                           <a
                             target="_blank"
                             href="https://casana-demo.web.app/#/home"
+                            rel="noopener noreferrer"
                           >
                             <i className="icon-eye" /> Demo
                           </a>
@@ -114,6 +119,7 @@ export default class Projects extends Component {
                         <a
                           target="_blank"
                           href="https://casana-demo.web.app/#/home"
+                          rel="noopener noreferrer"
                         >
                           <b>My Kid's Mentor</b>
                         </a>
@@ -126,6 +132,7 @@ export default class Projects extends Component {
                           <a
                             target="_blank"
                             href="https://my-kid-s-mentor.firebaseapp.com/"
+                            rel="noopener noreferrer"
                           >
                             <i className="icon-eye" /> Demo
                           </a>
@@ -134,6 +141,7 @@ export default class Projects extends Component {
                           <a
                             target="_blank"
                             href="https://github.com/ClaudyV/myKidsMentor-web-app/tree/master/mykidsmentor"
+                            rel="noopener noreferrer"
                           >
                             <i className="icon-link" /> Github
                           </a>
@@ -159,6 +167,7 @@ export default class Projects extends Component {
                         <a
                           target="_blank"
                           href="https://compressthat.firebaseapp.com/"
+                          rel="noopener noreferrer"
                         >
                           <b>Image Compressor</b>
                         </a>
@@ -171,6 +180,7 @@ export default class Projects extends Component {
                           <a
                             target="_blank"
                             href="https://compressthat.firebaseapp.com/"
+                            rel="noopener noreferrer"
                           >
                             <i className="icon-eye" /> Demo
                           </a>
