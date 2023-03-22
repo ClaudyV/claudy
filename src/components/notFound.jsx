@@ -7,7 +7,7 @@ const NotFound = () => {
       <div className="col-md-12 text-center">
         <p>Page Not Found</p>
         <Link
-          to={"/claudy"}
+          to={"/"}
           onClick={() => {
             setTimeout(() => {
               window.location.reload();
