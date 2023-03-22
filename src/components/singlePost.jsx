@@ -36,7 +36,7 @@ const SinglePost = ({ match }) => {
     <div>
       <div style={{ padding: "1rem", borderBottom: "1px solid" }}>
         <Link
-          to="/claudy"
+          to="/"
           onClick={() => {
             setTimeout(() => {
               window.location.reload();

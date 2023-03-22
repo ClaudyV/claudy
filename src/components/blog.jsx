@@ -70,7 +70,7 @@ const Blog = () => {
                   data-animate-effect="fadeInLeft"
                 >
                   <div className="blog-entry">
-                    <Link to={"/claudy/blog/" + post.id} className="blog-img">
+                    <Link to={"/blog/" + post.id} className="blog-img">
                       <img
                         src={post.image}
                         className="img-responsive"
@@ -93,7 +93,7 @@ const Blog = () => {
                         </small>
                       </span>
                       <h3>
-                        <Link to={"/claudy/blog/" + post.id}>{post.title}</Link>
+                        <Link to={"/blog/" + post.id}>{post.title}</Link>
                       </h3>
                     </div>
                   </div>
